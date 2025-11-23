@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/01-CapaAccesoDatos/">
+    <Project Path="CarManagement.AccesoDatos/CarManagement.AccesoDatos.csproj" />
+    <Project Path="CarManagement.Entities/CarManagement.Entities.csproj" />
+    <Project Path="CarManagement.Repositorio/CarManagement.Repositorio.csproj" />
+  </Folder>
+  <Folder Name="/02-CapaNegocio/">
+    <Project Path="CarManagement.Negocio/CarManagement.Negocio.csproj" />
+  </Folder>
+  <Folder Name="/03-CapaTransversal/">
+    <Project Path="CarManagement.Dto/CarManagement.Dto.csproj" />
+  </Folder>
+  <Folder Name="/04-CapaServidor/">
+    <Project Path="CarManagement.API/CarManagement.API.csproj" />
+  </Folder>
+  <Folder Name="/05-CapaCliente/">
+    <Project Path="CarManagement.Cliente/CarManagement.Cliente.csproj" />
+  </Folder>
+</Solution>
